@@ -1,4 +1,4 @@
-# vsrobotics test task - service for proxy trafic to moltiple backends
+# vsrobotics test task - service for proxy trafic to multiple backends
 
 #Задание
 Есть клиент и сервер системы распознавания речи, общающиеся по протоколу на основе Protobuf.
