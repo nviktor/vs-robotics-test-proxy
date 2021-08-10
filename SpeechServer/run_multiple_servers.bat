@@ -1,7 +1,7 @@
 @echo off
 
 SET /A initialPort=4830
-SET /A endPort=4830
+SET /A endPort=4834
 
 :label
 	start "" "SpeechServer.exe" "-listen_port=%initialPort%"
